@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #################################################
-# 3D Navier-Stokes/Euler solver
+# 1D Burgers equation solver
 # Sk. Mashfiqur Rahman
 # Oklahoma State University
 # CWID: A20102717
