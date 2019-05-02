@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 #################################################
-# 1D Burgers equation solver
+# 1D Burgers equation solver (vectorized)
 # Sk. Mashfiqur Rahman
 # Oklahoma State University
 # CWID: A20102717
